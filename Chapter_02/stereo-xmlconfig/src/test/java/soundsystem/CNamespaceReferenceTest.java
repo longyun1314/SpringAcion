@@ -24,8 +24,8 @@ public class CNamespaceReferenceTest {
   public void play() {
     player.play();
     assertEquals(
-        "Playing Sgt. Pepper's Lonely Hearts Club Band by The Beatles\n", 
-        log.getLog());
+        "Playing Sgt. Pepper's Lonely Hearts Club Band by The Beatles\r\n",
+            log.getLog());
   }
 
 }

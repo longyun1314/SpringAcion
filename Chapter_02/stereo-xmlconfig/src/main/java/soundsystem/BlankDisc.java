@@ -10,8 +10,9 @@ public class BlankDisc implements CompactDisc {
     this.artist = artist;
   }
 
+  @Override
   public void play() {
-    System.out.println("Playing " + title + " by " + artist);
+    System.out.println ("Playing " + title + " by " + artist);
   }
 
 }
