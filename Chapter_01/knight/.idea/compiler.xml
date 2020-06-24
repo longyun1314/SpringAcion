@@ -4,8 +4,14 @@
     <bytecodeTargetLevel>
       <module name="knight.main" target="1.8" />
       <module name="knight.test" target="1.8" />
+      <module name="stereo-autoconfig.main" target="1.8" />
+      <module name="stereo-autoconfig.test" target="1.8" />
+      <module name="stereo-javaconfig.main" target="1.8" />
+      <module name="stereo-javaconfig.test" target="1.8" />
       <module name="stereo-mixedconfig.main" target="1.8" />
       <module name="stereo-mixedconfig.test" target="1.8" />
+      <module name="stereo-xmlconfig.main" target="1.8" />
+      <module name="stereo-xmlconfig.test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

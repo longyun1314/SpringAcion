@@ -2,50 +2,27 @@
 <project version="4">
   <component name="AutomaticModuleUnloader">
     <loaded-modules>
-      <module name="stereo-autoconfig" />
-      <module name="stereo-autoconfig.test" />
-      <module name="stereo-autoconfig.main" />
-      <module name="stereo-javaconfig" />
-      <module name="stereo-javaconfig.test" />
-      <module name="stereo-javaconfig.main" />
-      <module name="stereo-xmlconfig" />
-      <module name="stereo-xmlconfig.test" />
-      <module name="stereo-xmlconfig.main" />
+      <module name="Spittr" />
+      <module name="Spittr.test" />
+      <module name="Spittr.main" />
+      <module name="Spittr-JSP" />
+      <module name="Spittr-JSP.test" />
+      <module name="Spittr-JSP.main" />
     </loaded-modules>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03de95b6-1562-46c3-8c81-bbb5ca928673" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/359ba0e72dbd3f23fac8925fe058f38e832a2fab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/0/400e8eff2ad13a7dd4709fdcfdcc4c33f6a9ed99" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/d/4d0ab25b559acf64a465a3e004a801a075bb3912" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/d/4d5c6824ac5901f79de10db91c2c265930eb9ad0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/7/67183b924de5ab15551aa9fc63da6bef3efd6ea8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/d/8d15d838e12f16bb692683aed7d7b9a4fdf9c713" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/3/93c7fd3d9930debfbaaf39e44bee6b0e615acef2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/1/b1e8a4c3c68752c00de6e9a186824653715031da" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Chapter_02/stereo-javaconfig/src/main/resources/META-INF/spring/app-context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_02/stereo-javaconfig/src/main/resources/META-INF/spring/app-context.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Chapter_02/stereo-xmlconfig/src/main/java/soundsystem/BlankDisc.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_02/stereo-xmlconfig/src/main/java/soundsystem/BlankDisc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Chapter_02/stereo-xmlconfig/src/main/java/soundsystem/CDPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_02/stereo-xmlconfig/src/main/java/soundsystem/CDPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Chapter_02/stereo-xmlconfig/src/main/java/soundsystem/CompactDisc.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_02/stereo-xmlconfig/src/main/java/soundsystem/CompactDisc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Chapter_02/stereo-xmlconfig/src/main/java/soundsystem/SgtPeppers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_02/stereo-xmlconfig/src/main/java/soundsystem/SgtPeppers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Chapter_02/stereo-xmlconfig/src/main/java/soundsystem/collections/BlankDisc.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_02/stereo-xmlconfig/src/main/java/soundsystem/collections/BlankDisc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Chapter_02/stereo-xmlconfig/src/main/java/soundsystem/properties/BlankDisc.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_02/stereo-xmlconfig/src/main/java/soundsystem/properties/BlankDisc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Chapter_02/stereo-xmlconfig/src/main/java/soundsystem/properties/CDPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_02/stereo-xmlconfig/src/main/java/soundsystem/properties/CDPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Chapter_02/stereo-xmlconfig/src/test/java/soundsystem/CNamespaceReferenceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_02/stereo-xmlconfig/src/test/java/soundsystem/CNamespaceReferenceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Chapter_02/stereo-xmlconfig/src/test/java/soundsystem/CNamespaceValueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_02/stereo-xmlconfig/src/test/java/soundsystem/CNamespaceValueTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Chapter_02/stereo-xmlconfig/src/test/java/soundsystem/ConstructorArgCollectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_02/stereo-xmlconfig/src/test/java/soundsystem/ConstructorArgCollectionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Chapter_02/stereo-xmlconfig/src/test/java/soundsystem/ConstructorArgReferenceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_02/stereo-xmlconfig/src/test/java/soundsystem/ConstructorArgReferenceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Chapter_02/stereo-xmlconfig/src/test/java/soundsystem/ConstructorArgValueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_02/stereo-xmlconfig/src/test/java/soundsystem/ConstructorArgValueTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Chapter_02/stereo-xmlconfig/src/test/java/soundsystem/PNamespaceRefTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_02/stereo-xmlconfig/src/test/java/soundsystem/PNamespaceRefTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Chapter_02/stereo-xmlconfig/src/test/java/soundsystem/PNamespaceValueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_02/stereo-xmlconfig/src/test/java/soundsystem/PNamespaceValueTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Chapter_02/stereo-xmlconfig/src/test/java/soundsystem/PNamespaceWithUtilNamespaceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_02/stereo-xmlconfig/src/test/java/soundsystem/PNamespaceWithUtilNamespaceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Chapter_02/stereo-xmlconfig/src/test/java/soundsystem/PropertyRefTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_02/stereo-xmlconfig/src/test/java/soundsystem/PropertyRefTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Chapter_02/stereo-xmlconfig/src/test/java/soundsystem/PropertyValueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_02/stereo-xmlconfig/src/test/java/soundsystem/PropertyValueTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Chapter_02/stereo-xmlconfig/src/test/resources/soundsystem/CNamespaceReferenceTest-context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_02/stereo-xmlconfig/src/test/resources/soundsystem/CNamespaceReferenceTest-context.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Chapter_02/stereo-xmlconfig/src/test/resources/soundsystem/CNamespaceValueTest-context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_02/stereo-xmlconfig/src/test/resources/soundsystem/CNamespaceValueTest-context.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_05/Spittr/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_05/Spittr/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_05/Spittr/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_05/Spittr/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_05/Spittr/src/test/java/spittr/web/HomeControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_05/Spittr/src/test/java/spittr/web/HomeControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_06/jsp/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_06/jsp/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_06/thymeleaf/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_06/thymeleaf/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_06/tiles/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_06/tiles/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +45,18 @@
     <projectState path="$PROJECT_DIR$/../../Chapter_02/stereo-xmlconfig">
       <ProjectState />
     </projectState>
+    <projectState path="$PROJECT_DIR$/../../Chapter_05/Spittr">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/../../Chapter_06/jsp">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/../../Chapter_06/thymeleaf">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/../../Chapter_06/tiles">
+      <ProjectState />
+    </projectState>
   </component>
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
@@ -81,32 +70,30 @@
         <task path="$PROJECT_DIR$/../../Chapter_02/stereo-xmlconfig">
           <activation />
         </task>
+        <task path="$PROJECT_DIR$/../../Chapter_05/Spittr">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
-            <expand>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="knight" type="f1a62948:ProjectNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="knight" type="f1a62948:ProjectNode" />
-                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="knight" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-              </path>
-            </expand>
+            <expand />
             <select />
           </tree_state>
         </projects_view>
       </state>
     </system>
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="knight" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectId" id="1bULdxN4uPMzSfp9z6jVk5HKEyR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -120,59 +107,20 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Chapter_02/stereo-mixedconfig/build.gradle" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
     <property name="show.unlinked.gradle.project.popup" value="true" />
   </component>
-  <component name="RunManager" selected="Gradle.PropertyValueTest.play">
-    <configuration name="PNamespaceRefTest.play" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.HomeControllerTest.testHomePage">
+    <configuration name="HomeControllerTest.testHomePage" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/../../Chapter_02/stereo-xmlconfig" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../../Chapter_06/jsp" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;soundsystem.PNamespaceRefTest.play&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="PNamespaceValueTest.play" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/../../Chapter_02/stereo-xmlconfig" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;soundsystem.PNamespaceValueTest.play&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="PNamespaceWithUtilNamespaceTest.play" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/../../Chapter_02/stereo-xmlconfig" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;soundsystem.PNamespaceWithUtilNamespaceTest.play&quot;" />
+        <option name="scriptParameters" value="--tests &quot;spittr.web.HomeControllerTest.testHomePage&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -227,13 +175,53 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="SpitterControllerTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../../Chapter_05/Spittr" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;spittr.web.SpitterControllerTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="SpittleControllerTest.houldShowRecentSpittles" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../../Chapter_05/Spittr" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;spittr.web.SpittleControllerTest.houldShowRecentSpittles&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.HomeControllerTest.testHomePage" />
+        <item itemvalue="Gradle.SpittleControllerTest.houldShowRecentSpittles" />
+        <item itemvalue="Gradle.SpitterControllerTest" />
+        <item itemvalue="Gradle.HomeControllerTest.testHomePage" />
         <item itemvalue="Gradle.PropertyValueTest.play" />
-        <item itemvalue="Gradle.PropertyRefTest.play" />
-        <item itemvalue="Gradle.PNamespaceWithUtilNamespaceTest.play" />
-        <item itemvalue="Gradle.PNamespaceValueTest.play" />
-        <item itemvalue="Gradle.PNamespaceRefTest.play" />
       </list>
     </recent_temporary>
   </component>
@@ -250,12 +238,28 @@
       <workItem from="1588681820823" duration="1257000" />
       <workItem from="1588683120345" duration="8442000" />
       <workItem from="1588777117363" duration="2846000" />
-      <workItem from="1589120944699" duration="2457000" />
+      <workItem from="1589120944699" duration="2970000" />
+      <workItem from="1589466090639" duration="3685000" />
+      <workItem from="1592057657631" duration="140000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="UnloadedModulesList">
+    <module name="knight.main" />
+    <module name="knight.test" />
+    <module name="knight" />
+    <module name="stereo-autoconfig.main" />
+    <module name="stereo-autoconfig.test" />
+    <module name="stereo-autoconfig" />
+    <module name="stereo-javaconfig.main" />
+    <module name="stereo-javaconfig.test" />
+    <module name="stereo-javaconfig" />
+    <module name="stereo-xmlconfig.main" />
+    <module name="stereo-xmlconfig.test" />
+    <module name="stereo-xmlconfig" />
   </component>
   <component name="WindowStateProjectService">
     <state x="88" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1589122938376">
@@ -270,37 +274,41 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="109" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1588689941407" />
-    <state x="463" y="53" key="FileChooserDialogImpl" timestamp="1589123183825">
+    <state x="463" y="53" key="FileChooserDialogImpl" timestamp="1592057774011">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="53" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1589123183825" />
-    <state width="1322" height="221" key="GridCell.Tab.0.bottom" timestamp="1589123085732">
+    <state x="463" y="53" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1592057774011" />
+    <state width="1322" height="221" key="GridCell.Tab.0.bottom" timestamp="1589470488165">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="221" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589123085732" />
-    <state width="1322" height="221" key="GridCell.Tab.0.center" timestamp="1589123085732">
+    <state width="1322" height="221" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589470488165" />
+    <state width="1322" height="221" key="GridCell.Tab.0.center" timestamp="1589470488165">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="221" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589123085732" />
-    <state width="1322" height="221" key="GridCell.Tab.0.left" timestamp="1589123085732">
+    <state width="1322" height="221" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589470488165" />
+    <state width="1322" height="221" key="GridCell.Tab.0.left" timestamp="1589470488165">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="221" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589123085732" />
-    <state width="1322" height="221" key="GridCell.Tab.0.right" timestamp="1589123085732">
+    <state width="1322" height="221" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589470488165" />
+    <state width="1322" height="221" key="GridCell.Tab.0.right" timestamp="1589470488165">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="221" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589123085732" />
-    <state x="323" y="60" key="NewModule_or_Project.wizard" timestamp="1589123163968">
+    <state width="1322" height="221" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589470488165" />
+    <state x="323" y="60" key="NewModule_or_Project.wizard" timestamp="1589470289130">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="323" y="60" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1589123163968" />
-    <state x="163" y="0" key="SettingsEditor" timestamp="1589123200197">
+    <state x="323" y="60" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1589470289130" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1589470300266">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1589123200197" />
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1589470300266" />
     <state x="341" y="52" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1588684318295">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="341" y="52" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1588684318295" />
+    <state x="339" y="157" width="672" height="677" key="run.anything.popup" timestamp="1589468175207">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="157" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1589468175207" />
   </component>
 </project>

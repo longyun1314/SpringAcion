@@ -1,0 +1,6 @@
+#.gitignore
+/gradle/
+/.gradle/
+.idea
+.settings/*
+**/.idea/*
